@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bel Grenkov",
-      "group": 9,
+      "group": 1,
       "level": 5,
       "skippableClasses": 2,
       "status": "inactive",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "Joyce Fain",
-      "group": 8,
+      "group": 1,
       "level": 11,
       "skippableClasses": 1,
       "status": "active",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "name": "Lilia Goodrick",
-      "group": 5,
+      "group": 1,
       "level": 6,
       "skippableClasses": 1,
       "status": "active",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "name": "Gabi Jaycock",
-      "group": 9,
+      "group": 1,
       "level": 11,
       "skippableClasses": 3,
       "status": "active",
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "name": "Vladimir McEneny",
-      "group": 9,
+      "group": 1,
       "level": 2,
       "skippableClasses": 2,
       "status": "inactive",
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "name": "Harold Suttill",
-      "group": 5,
+      "group": 1,
       "level": 9,
       "skippableClasses": 2,
       "status": "inactive",
@@ -120,7 +120,7 @@
     {
       "id": 14,
       "name": "Marcellina Dowthwaite",
-      "group": 9,
+      "group": 1,
       "level": 2,
       "skippableClasses": 4,
       "status": "inactive",
@@ -129,7 +129,7 @@
     {
       "id": 15,
       "name": "Adolpho Farlow",
-      "group": 9,
+      "group": 1,
       "level": 4,
       "skippableClasses": 4,
       "status": "inactive",
@@ -147,7 +147,7 @@
     {
       "id": 17,
       "name": "Mab Sharland",
-      "group": 8,
+      "group": 1,
       "level": 10,
       "skippableClasses": 1,
       "status": "active",
@@ -165,7 +165,7 @@
     {
       "id": 19,
       "name": "Claresta MacGown",
-      "group": 5,
+      "group": 1,
       "level": 9,
       "skippableClasses": 5,
       "status": "inactive",
